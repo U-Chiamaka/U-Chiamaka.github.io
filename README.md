@@ -30,5 +30,5 @@ I am excited to explore opportunities where i can apply my analytical skills and
 
 - LinkedIn: [Chiamaka Umeasalugo](#)
 - GitHub: [Chiamaka Umeasalugo](https://github.com/U-Chiamaka)
-- Email: [Your Email](#)
+- Email: [chiamakaumeasalugo@gmail.com](#)
 
