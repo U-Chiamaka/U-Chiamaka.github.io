@@ -24,7 +24,7 @@ I enjoy analyzing data to uncover trends and support decision making. I've compl
 
   *Bachelor of Science in Mass Communication*
 
-## Connect with Me
+#### Connect with Me
 
 I am excited to explore opportunities where i can apply my analytical skills and contribute to impactful projects.
 
