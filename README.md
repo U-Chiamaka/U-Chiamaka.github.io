@@ -18,9 +18,11 @@ I enjoy analyzing data to uncover trends and support decision making. I've compl
 
 ## Education
 - **Tech Studion Academy**
+  
   *Data Analysis Certification*
 - **Nnamdi Azikiwe University**
-  *Bachelor of Science in Mass Communication
+
+  *Bachelor of Science in Mass Communication*
 
 ## Connect with Me
 
