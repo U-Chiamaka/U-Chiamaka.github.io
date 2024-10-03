@@ -5,6 +5,7 @@ I enjoy analyzing data to uncover trends and support decision making. I've compl
 
 ## Projects
 - **[Data Cleaning](#)**
+  
   Cleaned Dirty Data using Python
 - **[E-Commerce Sales Analysis](#)**
 
@@ -13,7 +14,6 @@ I enjoy analyzing data to uncover trends and support decision making. I've compl
 - **Data Analysis:** Excel, SQL, Python(Pandas)
 - **Data Visualization:** Power BI, Matplotlib, Seaborn
 - **Database Management:** MySQL Workbench
-- **Version Control
 
 
 ## Education
