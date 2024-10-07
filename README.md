@@ -1,10 +1,10 @@
 # Data Analyst
-I have a passion for turning data into meaningful insights. With proficiency in Excel,SQL,Python and Power BI and skills in data cleaning, analysis, and visualization.
+I have a passion for turning data into meaningful insights. With proficiency in Excel, SQL, Python and Power BI and skills in data cleaning, analysis, and visualization.
 I enjoy analyzing data to uncover trends and support decision making. I've completed several projects that shows my skills in data analysis.
 
 
 ## Projects
-- **[Data Cleaning](#)**
+- **[Data-Cleaning](#)**
   
   Cleaned Dirty Data using Python
 - **[E-Commerce Sales Analysis](#)**
