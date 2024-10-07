@@ -4,9 +4,9 @@ I enjoy analyzing data to uncover trends and support decision making. I've compl
 
 
 ## Projects
-- **[Data-Cleaning](https://github.com/U-Chiamaka/Data-Cleaning)**
-  
+- **[Data-Cleaning](#https://github.com/U-Chiamaka/Data-Cleaning)**
   Cleaned Dirty Data using Python
+  
 - **[E-Commerce Sales Analysis](#)**
 
 
