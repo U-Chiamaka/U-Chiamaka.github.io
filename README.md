@@ -17,7 +17,7 @@ I enjoy analyzing data to uncover trends and support decision making. I've compl
 
 
 ## Education
-- **Tech Studion Academy**
+- **Tech Studio Academy**
   
   *Data Analysis Certification*
 - **Nnamdi Azikiwe University**
